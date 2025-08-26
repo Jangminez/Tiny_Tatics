@@ -1,4 +1,7 @@
 # Tiny Tactics
+
+- 시연 영상: https://youtu.be/m82qzSHGy0A
+
 ---
 전략과 타이밍이 승리를 결정하는 캐주얼 카드 배틀 게임
 
